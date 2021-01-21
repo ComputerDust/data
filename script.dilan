@@ -148,8 +148,6 @@ accounts {
     next-pay: Not Available
     block: no
     reason: not blocked
-  }
-
-}
+  
 
 }

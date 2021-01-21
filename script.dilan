@@ -44,11 +44,13 @@ mc-mac: https://www.dropbox.com/s/oqm6sowidqof360/Minecraft.zip?dl=1
 
 extra: https://www.dropbox.com/s/fiql0c15ok2x2yn/DMSFiles.zip?dl=1
 
-ftp!
-domain: mods.blockhead7360.com
-idstr: DMSLauncher.93054
-idnum: 154708831670220152708441204296412734708441152808670512861808
-.
+ftp {
+  
+  domain: mods.blockhead7360.com
+  idstr: DMSLauncher.93054
+  idnum: 154708831670220152708441204296412734708441152808670512861808
+  
+}
 
 server-ip: mods.blockhead7360.com:25572
 
@@ -56,96 +58,96 @@ img: https://i.imgur.com/37XA5rP.png
 
 rules: https://pastebin.com/jb2YvejW
 
-accounts!
+accounts {
 
-Dilan.81712!
-user: Blockhead7360
-status: Paid
-color: blue
-last-pay: 12-11-20
-next-pay: 01-10-21
-block: no
-reason: not blocked
-.
+  Dilan.81712 {
+    user: Blockhead7360
+    status: Paid
+    color: blue
+    last-pay: 12-11-20
+    next-pay: 01-10-21
+    block: no
+    reason: not blocked
+  }
 
-Ekta.37334!
-user: Imonfire3
-status: Exempt
-color: blue
-last-pay: Not Available
-next-pay: Not Available
-block: no
-reason: not blocked
-.
+  Ekta.37334 {
+    user: Imonfire3
+    status: Exempt
+    color: blue
+    last-pay: Not Available
+    next-pay: Not Available
+    block: no
+    reason: not blocked
+  }
 
-Mitchell.88512!
-user: flyingchemelon
-status: Exempt
-color: blue
-last-pay: Not Available
-next-pay: Not Available
-block: no
-reason: not blocked
-.
+  Mitchell.88512 {
+    user: flyingchemelon
+    status: Exempt
+    color: blue
+    last-pay: Not Available
+    next-pay: Not Available
+    block: no
+    reason: not blocked
+  }
 
-Ben.97748!
-user: AvAx_Wolf
-status: Exempt
-color: blue
-last-pay: Not Available
-next-pay: Not Available
-block: no
-reason: not blocked
-.
+  Ben.97748 {
+    user: AvAx_Wolf
+    status: Exempt
+    color: blue
+    last-pay: Not Available
+    next-pay: Not Available
+    block: no
+    reason: not blocked
+  }
 
-Thomas.71057!
-user: caddo985
-status: Exempt
-color: blue
-last-pay: Not Available
-next-pay: Not Available
-block: no
-reason: not blocked
-.
+  Thomas.71057 {
+    user: caddo985
+    status: Exempt
+    color: blue
+    last-pay: Not Available
+    next-pay: Not Available
+    block: no
+    reason: not blocked
+  }
 
-Ethan.63451!
-user: Neo
-status: Exempt
-color: blue
-last-pay: Not Available
-next-pay: Not Available
-block: no
-reason: not blocked
-.
+  Ethan.63451 {
+    user: Neo
+    status: Exempt
+    color: blue
+    last-pay: Not Available
+    next-pay: Not Available
+    block: no
+    reason: not blocked
+  }
 
-Alex.90755!
-user: ATrain123
-status: Exempt
-color: blue
-last-pay: Not Available
-next-pay: Not Available
-block: no
-reason: not blocked
-.
+  Alex.90755 {
+    user: ATrain123
+    status: Exempt
+    color: blue
+    last-pay: Not Available
+    next-pay: Not Available
+    block: no
+    reason: not blocked
+  }
 
-Courtney.20515!
-user: fatturtles864
-status: Exempt
-color: blue
-last-pay: Not Available
-next-pay: Not Available
-block: no
-reason: not blocked
-.
+  Courtney.20515 {
+    user: fatturtles864
+    status: Exempt
+    color: blue
+    last-pay: Not Available
+    next-pay: Not Available
+    block: no
+    reason: not blocked
+  }
 
-Vishnu.36438!
-user: siddappa
-status: Exempt
-color: blue
-last-pay: Not Available
-next-pay: Not Available
-block: no
-reason: not blocked
-.
+  Vishnu.36438 {
+    user: siddappa
+    status: Exempt
+    color: blue
+    last-pay: Not Available
+    next-pay: Not Available
+    block: no
+    reason: not blocked
+  }
 
-.
+}

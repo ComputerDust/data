@@ -36,7 +36,7 @@ version: 1.0
 
 disable-play: no
 
-disable-server-indicator: no
+disable-server-indicator: yes
 
 type: 562831562176661670617441661658661441661412171661562
 

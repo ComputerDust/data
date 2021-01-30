@@ -3,6 +3,10 @@
 changelog [
 Welcome to DMS VI - FTB Revelation on 1.12.2
 
+DMSLauncher server status checker is down rn.
+Use status.dms.blockhead7360.com instead.
+
+
 Jan 05 2021:
 + Updated the 3 Galacticraft mods
 + Added ExtraPlanets (2 mods)
@@ -25,7 +29,7 @@ version: 1.0
 
 disable-play: no
 
-disable-server-indicator: no
+disable-server-indicator: yes
 
 type: 562831562176661670617441661658661441661412171661562
 

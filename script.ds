@@ -182,5 +182,15 @@ accounts {
     block: no
     reason: not blocked
   }
+  
+  Jared.41445 {
+    user: Jared2183
+    status: Exempt
+    color: blue
+    last-pay: Not Available
+    next-pay: Not Available
+    block: no
+    reason: not blocked
+  }
 
 }

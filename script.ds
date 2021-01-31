@@ -163,4 +163,14 @@ accounts {
     reason: not blocked
   }
 
+  North.64721 {
+    user: Mopishfool
+    status: Exempt
+    color: blue
+    last-pay: Not Available
+    next-pay: Not Available
+    block: no
+    reason: not blocked
+  }
+
 }

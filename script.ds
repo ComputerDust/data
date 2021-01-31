@@ -172,5 +172,15 @@ accounts {
     block: no
     reason: not blocked
   }
+  
+  Jack.26840 {
+    user: TwelvePointFive
+    status: Exempt
+    color: blue
+    last-pay: Not Available
+    next-pay: Not Available
+    block: no
+    reason: not blocked
+  }
 
 }

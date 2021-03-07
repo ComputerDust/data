@@ -1,0 +1,63 @@
+// DilanScript 2
+
+changelog [
+Welcome to the Northwestern Pixelmon server and mod installer!
+The IP is pixelmon.nu2024.tk and you'll need to send a DM on Discord to TwelvePointFive#5241 to get whitelisted (if you're whitelisted on the normal NU server you're already good to go).
+Please check the Rules tab for our server rules!
+
+The Pixelmon wiki can be found at https://pixelmonmod.com/wiki/ . Below is some extra info:
+
+- There are quests, NPCs, gyms, trading, treasure, and much more! You can find Pokemon hanging out in the wild or in tall grass.
+- This mod adds Pokemon in gens 1-8, shiny Pokemon, Z-Moves, Mega Evolutions, Breeding, and many other features of modern Pokemon games.
+- The launcher installs 3 resource packs! One is the Pixelmon OST, and the other two are texture packs that make the world feel much more like Pokemon.
+- You are in Adventure mode the whole time, as the map is designed for exploration, battle, and story instead of more normal Minecraft.
+- To battle an NPC, press R to throw your active Pokemon at it (it's not super intuitive).
+]
+
+version: 1.0
+
+disable-play: no
+
+disable-server-indicator: yes
+
+type: 562831562176661670617441661658661441661412171661562
+
+libverlaunch: https://www.dropbox.com/s/gn9ekyjy2el5cid/PokeLibVerLaunch.zip?dl=1
+
+mc-win: https://www.dropbox.com/s/stxqwi2uor53f5h/Minecraft.exe.zip?dl=1
+
+mc-mac: https://www.dropbox.com/s/oqm6sowidqof360/Minecraft.zip?dl=1
+
+extra: https://www.dropbox.com/s/xkhzooasrhi91oo/PokeExtra.zip?dl=1
+
+ftp {
+  
+  domain: testing.blockhead7360.com
+  idstr: DMSLauncher.77677
+  idnum: 154708831670220152708441204296412734708441152808670512861808
+  
+}
+
+server-ip: pixelmon.nu2024.tk
+
+img: https://i.imgur.com/qiLIdFg.png
+
+rules: https://pastebin.com/raw/av37xCnU
+
+options {
+
+}
+
+accounts {
+
+  Trainer.0 {
+    user: Notch
+    status: N/A
+    color: blue
+    last-pay: N/A
+    next-pay: N/A
+    block: no
+    reason: not blocked
+  }
+
+}

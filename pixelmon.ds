@@ -71,6 +71,10 @@ options {
 
 }
 
+accounts {
+
+}
+
 rules-subtitle: rule test
 
 rules-warning: rule test 2

@@ -85,3 +85,23 @@ accounts {
   }
 
 }
+
+rules-subtitle: rule test
+
+rules-warning: rule test 2
+
+rules {
+
+  title1: Rule 1 test
+  info1 [
+  Here is some info
+  on rule 1!
+  ]
+  
+  title2: Rule 2 test
+  info2 [
+  Here is some other
+  info on rule 2!
+  ]
+
+}

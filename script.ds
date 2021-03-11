@@ -46,6 +46,7 @@ ftp {
   domain: mods.blockhead7360.com
   idstr: DMSLauncher.93054
   idnum: 154708831670220152708441204296412734708441152808670512861808
+  dir: DMSLauncher
   
 }
 

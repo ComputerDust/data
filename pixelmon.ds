@@ -59,6 +59,7 @@ ftp {
   domain: testing.blockhead7360.com
   idstr: DMSLauncher.77677
   idnum: 154708831670220152708441204296412734708441152808670512861808
+  dir: DMSLauncher
   
 }
 

@@ -71,20 +71,6 @@ options {
 
 }
 
-accounts {
-
-  Trainer.0 {
-    user: Notch
-    status: N/A
-    color: blue
-    last-pay: N/A
-    next-pay: N/A
-    block: no
-    reason: not blocked
-  }
-
-}
-
 rules-subtitle: rule test
 
 rules-warning: rule test 2

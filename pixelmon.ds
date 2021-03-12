@@ -75,22 +75,48 @@ accounts {
 
 }
 
-rules-subtitle: rule test
+rules-subtitle: last updated March 06 2021
 
-rules-warning: rule test 2
+rules-warning: Contact TwelvePointFive#5421 with any questions.
 
 rules {
 
-  title1: Rule 1 test
+  title1: Don't be rude
   info1 [
-Here is some info
-on rule 1!
+Cheating, bullying, racism,
+homophobia, etc. or otherwise
+being an unfun or rude community
+member will result in a ban.
   ]
   
-  title2: Rule 2 test
+  title2: Don't abuse loopholes or glitches
   info2 [
-Here is some other
-info on rule 2!
+Please report and don't abuse
+loopholes, glitches, or other
+unintended gameplay mechanics.
   ]
-
+  
+  title3: Use common sense
+  info3 [
+Generally use common sense. If
+you think something is not okay,
+it probably isn't, or ask an
+admin.
+  ]
+  
+  title4: Feel free to reach out
+  info4 [
+Try to sort out issues with other
+players over DMs, but feel free to
+reach out to admins or on Discord.
+Admins have final say on all matters.
+  ]
+  
+  title5: Have fun!
+  info5 [
+Have fun! This is a very casual server
+and the stakes are low, just have good
+sportsmanship.
+  ]
+  
 }

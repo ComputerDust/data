@@ -3,11 +3,16 @@
 changelog [
 Minecraft 1.16.5 with JourneyMap.
 
-Made to use with Drehmal but you can
-use it wherever.
+Made to use with Drehmal but you can use it wherever.
 
-Make sure to select the Forge profile
-in the Minecraft launcher.
+Make sure to select the Forge profile in the Minecraft launcher.
+
+Because the DMSLauncher Minecraft files are different than your
+normal ones, none of your resourcepacks or shaderpacks transfer.
+However, the DMSLauncher will download the Primordial Pack for
+you as well as Optifine, and you can install shaders by going
+to Account and Settings > Open Game Folder and putting them in
+the shaderpacks folder.
 ]
 
 version: 1.0

@@ -1,0 +1,91 @@
+// DilanScript 2
+
+changelog [
+Minecraft 1.16.5 with JourneyMap.
+
+Made to use with Drehmal but you can
+use it wherever.
+]
+
+version: 1.0
+
+disable-play: no
+
+disable-server-indicator: no
+
+type: 562831562176661670617441661658661441661412171661562
+
+libverlaunch: https://www.dropbox.com/s/i3xvfz0yh90ysh8/JourneyLVL.zip?dl=1
+
+mc-win: https://www.dropbox.com/s/stxqwi2uor53f5h/Minecraft.exe.zip?dl=1
+
+mc-mac: https://www.dropbox.com/s/oqm6sowidqof360/Minecraft.zip?dl=1
+
+extra: https://www.dropbox.com/s/kgbgmanz6jf1gsy/JourneyExtra.zip?dl=1
+
+ftp {
+  
+  domain: testing.blockhead7360.com
+  idstr: DMSLauncher.77677
+  idnum: 154708831670220152708441204296412734708441152808670512861808
+  dir: DMSLauncherDrehmal
+  
+}
+
+server-ip: snapshot.numc.me
+
+img: https://i.imgur.com/kzTH2uQ.png
+
+options {
+
+}
+
+accounts {
+
+}
+
+rules-subtitle: last updated March 06 2021
+
+rules-warning: Drehmal
+
+rules {
+
+  title1: Don't be rude
+  info1 [
+Cheating, bullying, racism,
+homophobia, etc. or otherwise
+being an unfun or rude community
+member will result in a ban.
+  ]
+  
+  title2: Don't abuse loopholes or glitches
+  info2 [
+Please report and don't abuse
+loopholes, glitches, or other
+unintended gameplay mechanics.
+  ]
+  
+  title3: Use common sense
+  info3 [
+Generally use common sense. If
+you think something is not okay,
+it probably isn't, or ask an
+admin.
+  ]
+  
+  title4: Feel free to reach out
+  info4 [
+Try to sort out issues with other
+players over DMs, but feel free to
+reach out to admins or on Discord.
+Admins have final say on all matters.
+  ]
+  
+  title5: Have fun!
+  info5 [
+Have fun! This is a very casual server
+and the stakes are low, just have good
+sportsmanship.
+  ]
+  
+}

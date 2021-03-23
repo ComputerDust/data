@@ -5,6 +5,9 @@ Minecraft 1.16.5 with JourneyMap.
 
 Made to use with Drehmal but you can
 use it wherever.
+
+Make sure to select the Forge profile
+in the Minecraft launcher.
 ]
 
 version: 1.0

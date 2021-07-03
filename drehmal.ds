@@ -33,14 +33,14 @@ extra: https://www.dropbox.com/s/kgbgmanz6jf1gsy/JourneyExtra.zip?dl=1
 
 ftp {
   
-  domain: mon17.bisecthosting.com
+  domain: chocolate.dilanxd.com
   idstr: DMSLauncher.77677
   idnum: 154708831670220152708441204296412734708441152808670512861808
   dir: DMSLauncherDrehmal
   
 }
 
-server-ip: large.mc.dilanxd.com:25569
+server-ip: mc2.dilanxd.com:25569
 
 img: https://i.imgur.com/F8Gy4S0.png
 

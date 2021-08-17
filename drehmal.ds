@@ -58,42 +58,9 @@ rules-warning: Drehmal
 
 rules {
 
-  title1: Don't be rude
+  title1: You know.
   info1 [
-Cheating, bullying, racism,
-homophobia, etc. or otherwise
-being an unfun or rude community
-member will result in a ban.
-  ]
-  
-  title2: Don't abuse loopholes or glitches
-  info2 [
-Please report and don't abuse
-loopholes, glitches, or other
-unintended gameplay mechanics.
-  ]
-  
-  title3: Use common sense
-  info3 [
-Generally use common sense. If
-you think something is not okay,
-it probably isn't, or ask an
-admin.
-  ]
-  
-  title4: Feel free to reach out
-  info4 [
-Try to sort out issues with other
-players over DMs, but feel free to
-reach out to admins or on Discord.
-Admins have final say on all matters.
-  ]
-  
-  title5: Have fun!
-  info5 [
-Have fun! This is a very casual server
-and the stakes are low, just have good
-sportsmanship.
+You know.
   ]
   
 }
